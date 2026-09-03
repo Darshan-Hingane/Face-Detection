@@ -33,7 +33,7 @@ Deepfake_detection_using_deep_learning
 #### 4.Contributors
    1. Milind Hanchate
    2. Akshat Daryapurkar
-   3. Aryan Jain
+   3.Darshan Hingane 
    
 
 
